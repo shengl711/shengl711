@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on creating more Power BI dashboard and data analysis using financial dataset from education field  
+- 🌱 I’m currently contributing to non-profit mobile platform that serves local community with upcoming language-learning resources
+
 
 <!--
 **shengl711/shengl711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
